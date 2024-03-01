@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="    ">Ariasdv</a>🫡</h1>
+<h1 align="center">Hi, i am <a href="    ">Ariasdv</a>🫡</h1>
 </div>
 
 in build.. ↓
@@ -21,6 +21,6 @@ in build.. ↓
 <p align="center">
 <a href="https://github.com/Ariasdv">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ariasdv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfreco&layout=donut&theme=tokyonight&langs_count=5&hide_progress=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariasdv&layout=donut&theme=tokyonight&langs_count=5&hide_progress=false"/>
 </a>
 </p>
