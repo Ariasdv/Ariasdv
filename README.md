@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="    ">Ariasdv</a>🫡</h1>
+</div>
 
-<!--
-**Ariasdv/Ariasdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+in build.. ↓
 
-Here are some ideas to get you started:
+// img tipo header channel yt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+// add social buttons (count) - view count followers // shield.io (search)
+
+## Info 
+
+- 💥_💥
+- 🧑‍🏫 Software Enginner
+- 📲 React developer (in learning)
+- 🎮 Game Developer (in progress)
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Ariasdv">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ariasdv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfreco&layout=donut&theme=tokyonight&langs_count=5&hide_progress=false"/>
+</a>
+</p>
