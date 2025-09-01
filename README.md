@@ -4,15 +4,11 @@
 
 in build.. ↓
 
-// img tipo header channel yt
-
-// add social buttons (count) - view count followers // shield.io (search)
-
 ## Info 
 
 - 💥_💥
 - 🧑‍🏫 Software Enginner
-- 📲 React developer (in learning)
+- 📲 React developer
 - 🎮 Game Developer (in progress)
 <br>
 
